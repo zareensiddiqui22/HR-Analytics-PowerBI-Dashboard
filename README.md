@@ -22,13 +22,6 @@ The key objectives of this project are:
 - Examine the relationship between job roles, job satisfaction, and attrition.
 - Analyse attrition trends based on employee experience.
 - Compare employee distribution across departments.
-
----
-
-## 📊 Dashboard Preview
-
-![HR Analytics Dashboard](Dashboard/Dashboard_Screenshot.png)
-
 ---
 
 ## 📁 Dataset Information
